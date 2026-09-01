@@ -18,3 +18,12 @@
   105  git status
   106  git restore testing.py
   107  ls
+ git remote add origin https://github.com/Kanha3006/github.git
+  130  git remote -v
+  135  git push origin master
+  136  history
+  137  clear
+  138  git status
+  139  ls
+  140  git add git_commands.txt
+  141  git commit -m "modified commands"
