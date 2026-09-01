@@ -1,0 +1,20 @@
+
+   89  nano testing.py
+   90  ls
+   91  git status
+   92  git add testing.py
+   93  git status
+   94  git restore --staged testing.py
+   95  git status
+   96  git rm --cached testing.py
+   97  git status
+   98  clear
+   99  git add .
+  100  git status
+  101  git commit -m "Add testing file"
+  102  git status
+  103  rm testing.py
+  104  ls
+  105  git status
+  106  git restore testing.py
+  107  ls
